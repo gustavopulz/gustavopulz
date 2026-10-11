@@ -6,11 +6,11 @@
 
 Web Designer na [BluePex Cybersecurity](https://www.bluepex.com) · Limeira, SP — Brasil
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gustavopulz.dev-2452D6?style=for-the-badge)](https://gustavopulz.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavopulz-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavopulz/)
-[![Instagram](https://img.shields.io/badge/Instagram-ghostsdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghostsdev/)
-[![E-mail](https://img.shields.io/badge/E--mail-pulzgustavo1%40gmail.com-EA4335?style=for-the-badge)](mailto:pulzgustavo1@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-ghostsfps-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ghostsfps)
+[![Portfólio](./assets/badges/portfolio.svg)](https://gustavopulz.dev)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/gustavopulz/)
+[![Instagram](./assets/badges/instagram.svg)](https://www.instagram.com/ghostsdev/)
+[![E-mail](./assets/badges/email.svg)](mailto:pulzgustavo1@gmail.com)
+[![Discord](./assets/badges/discord.svg)](https://discord.com/users/ghostsfps)
 
 </div>
 
