@@ -8,9 +8,7 @@ Web Designer na [BluePex Cybersecurity](https://www.bluepex.com) · Limeira, SP 
 
 [![Portfólio](./assets/badges/portfolio.svg)](https://gustavopulz.dev)
 [![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/gustavopulz/)
-[![Instagram](./assets/badges/instagram.svg)](https://www.instagram.com/ghostsdev/)
 [![E-mail](./assets/badges/email.svg)](mailto:pulzgustavo1@gmail.com)
-[![Discord](./assets/badges/discord.svg)](https://discord.com/users/ghostsfps)
 
 </div>
 
