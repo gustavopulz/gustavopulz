@@ -41,9 +41,9 @@ Desenvolvo sites e sistemas web do layout à implementação, com foco em clarez
 
 <div align="center">
 
-![Estatísticas do GitHub](./metrics-stats.svg)
+![Estatísticas do GitHub](./metrics-stats.svg?v=1)
 
-![Linguagens mais usadas](./metrics-languages.svg)
+![Linguagens mais usadas](./metrics-languages.svg?v=1)
 
 </div>
 
