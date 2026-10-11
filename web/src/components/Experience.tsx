@@ -21,7 +21,10 @@ export function Experience() {
                 <p className="mt-3 font-mono text-xs uppercase tracking-widest text-muted-foreground">{e.period}</p>
               </div>
               <div>
-                <h3 className="text-3xl font-light tracking-tight">{e.company}</h3>
+                <h3 className="flex items-center gap-3 text-3xl font-light tracking-tight">
+                  {e.icon && <img src={e.icon} alt="" className="size-8 rounded-md" />}
+                  {e.company}
+                </h3>
                 <p className="mt-1 text-primary">{e.role}</p>
                 <p className="mt-5 max-w-xl leading-relaxed text-muted-foreground">{e.text}</p>
               </div>

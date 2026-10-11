@@ -1,11 +1,10 @@
 import { ArrowDownRight, ArrowUpRight } from 'lucide-react'
+import { ZoomImage } from './Lightbox'
 import { useRef, type PointerEvent } from 'react'
 import { siNestjs, siReact, siTypescript } from 'simple-icons'
-import { experience, profile } from '../data/content'
+import { profile } from '../data/content'
 import { CodeBackdrop } from './CodeBackdrop'
 import { Magnetic } from './Magnetic'
-
-const current = experience[0]
 
 function Logo3({ path, hex }: { path: string; hex: string }) {
   return (
@@ -49,7 +48,7 @@ function Portrait() {
         }}
       >
         <div className="relative overflow-hidden rounded-[2rem] border bg-secondary shadow-2xl shadow-black/10">
-          <img src={profile.photo} alt={`Foto de ${profile.name}`} className="aspect-[4/5] w-full object-cover object-top grayscale-[35%]" />
+          <ZoomImage src={profile.photo} alt={`Foto de ${profile.name}`} className="aspect-[4/5] w-full object-cover object-top grayscale-[35%]" />
           <div aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-transparent" />
           <div className="absolute bottom-6 left-6 text-white">
             <p className="font-mono text-[11px] uppercase tracking-widest text-white/70">{profile.location}</p>
@@ -117,8 +116,8 @@ export function Hero() {
             </span></span>
           </h1>
           <p className="reveal in mt-7 max-w-xl text-lg leading-relaxed text-muted-foreground" style={{ transitionDelay: '.3s' }}>
-            Sou {profile.name}, {current.role} na {current.company}. Crio interfaces claras e rápidas com React e TypeScript, e as APIs
-            por trás delas com NestJS — sempre pensando em quem vai usar e em quem vai manter o código depois.
+            Sou {profile.name}, {profile.role}. Crio interfaces claras e rápidas com React e TypeScript, e as APIs
+            por trás delas com NestJS, sempre pensando em quem vai usar e em quem vai manter o código depois.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-3">
             <Magnetic>
