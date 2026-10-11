@@ -6,10 +6,10 @@
 
 Web Designer na [BluePex Cybersecurity](https://www.bluepex.com) · Limeira, SP — Brasil
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gustavopulz.dev-2452D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://gustavopulz.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavopulz-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/gustavopulz/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gustavopulz.dev-2452D6?style=for-the-badge)](https://gustavopulz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavopulz-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavopulz/)
 [![Instagram](https://img.shields.io/badge/Instagram-ghostsdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghostsdev/)
-[![E-mail](https://img.shields.io/badge/E--mail-pulzgustavo1@gmail.com-EA4335?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgeD0iMiIgeT0iNCIgcng9IjIiLz48cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIvPjwvc3ZnPg%3D%3D)](mailto:pulzgustavo1@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-pulzgustavo1%40gmail.com-EA4335?style=for-the-badge)](mailto:pulzgustavo1@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-ghostsfps-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ghostsfps)
 
 </div>
@@ -43,8 +43,9 @@ Desenvolvo sites e sistemas web do layout à implementação, com foco em clarez
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavopulz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopulz&layout=compact&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](./metrics-stats.svg)
+
+![Linguagens mais usadas](./metrics-languages.svg)
 
 </div>
 
